@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm from a sunny small village [in India] and miss the warm weather. Currently building AI-powered projects for fun. 👋
 
 <!--
 **souravran/souravran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
